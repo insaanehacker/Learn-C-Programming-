@@ -28,3 +28,14 @@ Follow by order below,
 24. Dereferencing Pointers
 25. Writing Files - employees.txt,myNames.txt,myNewnames.txt
 26. Reading Files - employees.txt
+
+                                      SO GUYS, STILL NOW, I WAS TEACHING YOU "C" IN SIMPLEST WAYS
+                                WHAT I HAVE THOUGHT YOU IS ALL THE MOST USED COMMANDS AND FUNCTION IN REAL WORLD
+                                                        I HOPE YOU UNDERSTOOD MY CLASS
+                                       IF YOU FACE ANY DIFFICULTIES CONTACT ME AT INSTAGRAM @insaane_hacker
+
+                                                            ROCK IN C PROGRAMMING....
+
+                                                                 ALL THE BEST
+
+                                                                  THANK YOU!
