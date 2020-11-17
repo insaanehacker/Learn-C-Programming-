@@ -1,0 +1,3 @@
+Name: Insaane, 
+Age: 21, 
+Gpa: 8.6
